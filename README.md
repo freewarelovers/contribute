@@ -9,6 +9,10 @@ There are multiple ways to start contributing to our ecosystem, including either
 
 ## Projects
 
+| Project Name                                          | Focus                | Stack            |
+|:-----------------------------------------------------:|:--------------------:|:----------------:|
+| [Translit](projects/README.md#translit)               |                      | JavaScript       |
+| [Freeware Lovers](projects/README.md#freeware-lovers) |                      |                  |
 
 ## Getting Started
 
