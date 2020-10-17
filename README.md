@@ -9,3 +9,11 @@ There are multiple ways to start contributing to our ecosystem, including either
 
 ## Projects
 
+
+## Getting Started
+
+### 1. Join our GitHub org
+
+### 2. Join Discord
+
+### 3. ...
