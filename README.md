@@ -12,8 +12,9 @@ There are multiple ways to start contributing to our ecosystem, including either
 
 ## Getting Started
 
-### 1. Join our GitHub org
+### Step 1: Join our GitHub org
 
-### 2. Join Discord
+### Step 2: Join Discord
 
-### 3. ...
+### Step 3: ...
+
