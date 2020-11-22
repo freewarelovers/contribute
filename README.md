@@ -5,7 +5,12 @@ Welcome! Are you interested in contributing to one (or some) of the Freeware Lov
 There are multiple ways to start contributing to our ecosystem, including either company-wide and project-wide opportunities.
 
 ## Roles
-
+- Front-end developer
+- Back-end developer
+- Technical writer
+- SEO specialist
+- Growth hacker
+- we are open for many other roles, please ask
 
 ## Projects
 
