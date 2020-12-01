@@ -14,10 +14,12 @@ There are multiple ways to start contributing to our ecosystem, including either
 
 ## Projects
 
-| Project Name                                          | Focus                | Stack            |
-|:-----------------------------------------------------:|:--------------------:|:----------------:|
-| [Translit](projects/README.md#translit)               |                      | JavaScript       |
-| [Freeware Lovers](projects/README.md#freeware-lovers) |                      |                  |
+Project Name | Focus | Stack
+--- | --- | ---
+[Translit](projects/README.md#translit) | | vanilla/native JavaScript
+[Freeware Lovers](projects/README.md#freeware-lovers) | | Laravel (PHP)
+[Community Lovers](https://github.com/freewarelovers/CommunityLovers) | | Django (Python), React (JavaScript)
+[Skupu](projects/README.md#freeware-lovers) | |
 
 ## Getting Started
 
