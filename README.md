@@ -19,7 +19,7 @@ Below is the table with the main projects listed in alphabetical order.
 Project Name | Description | Stack
 --- | --- | ---
 [CaseConverter](https://github.com/freewarelovers/CaseConverter) | Online case converter | vanilla/native JavaScript
-[Community Lovers](https://github.com/freewarelovers/CommunityLovers) | | Django (Python), React (JavaScript)
+[Community Lovers](https://github.com/freewarelovers/CommunityLovers) | Open community platform | Django (Python), React (JavaScript)
 [DiiCT](https://github.com/freewarelovers/DiiCT) | Multilingual dictionary | currently LAMP (PHP + MySQL), open for suggestions
 [Freeware Lovers](https://github.com/freewarelovers/FreewareLovers) | | currently LAMP (PHP + MySQL), should be reimplemented in Laravel (PHP)
 [MyProfiles](https://github.com/freewarelovers/MyProfiles) | |
