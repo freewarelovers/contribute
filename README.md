@@ -16,7 +16,7 @@ There are multiple ways to start contributing to our ecosystem, including either
 
 Below is the table with the main projects listed in alphabetical order.
 
-Project Name | Description | Stack
+Project | Description | Tech Stack
 --- | --- | ---
 [CaseConverter](https://github.com/freewarelovers/CaseConverter) | Online case converter | vanilla/native JavaScript
 [Community Lovers](https://github.com/freewarelovers/CommunityLovers) | Open community platform | Django (Python), React (JavaScript)
@@ -28,6 +28,7 @@ Project Name | Description | Stack
 [SpellCheck](https://github.com/freewarelovers/SpellCheck) | Online spell checker | vanilla/native JavaScript (currently broken)
 [Translit](https://github.com/freewarelovers/WebSniffer) | Online transliterator | vanilla/native JavaScript
 [WebSniffer](https://github.com/freewarelovers/WebSniffer) | HTTP request/response viewer | currently LAMP (PHP + MySQL), open for suggestions (needs more JS)
+new projects | we are open to any new projects and ideas | any tech stack
 
 ## Getting Started
 
