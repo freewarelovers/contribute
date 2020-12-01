@@ -20,6 +20,7 @@ Project Name | Focus | Stack
 [Freeware Lovers](projects/README.md#freeware-lovers) | | Laravel (PHP)
 [Community Lovers](https://github.com/freewarelovers/CommunityLovers) | | Django (Python), React (JavaScript)
 [Skupu](https://github.com/freewarelovers/Skupu) | | MERN (Mongo, Express, React, Node.js)
+[MyProfiles](https://github.com/freewarelovers/MyProfiles) | |
 
 ## Getting Started
 
