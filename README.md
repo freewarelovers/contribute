@@ -10,17 +10,24 @@ There are multiple ways to start contributing to our ecosystem, including either
 - Technical writer
 - SEO specialist
 - Growth hacker
-- we are open for many other roles, please ask
+- we are open for many other roles, feel free to ask / suggest
 
 ## Projects
 
-Project Name | Focus | Stack
+Below is the table with the main projects listed in alphabetical order.
+
+Project Name | Description | Stack
 --- | --- | ---
-[Translit](projects/README.md#translit) | | vanilla/native JavaScript
-[Freeware Lovers](projects/README.md#freeware-lovers) | | Laravel (PHP)
+[CaseConverter](https://github.com/freewarelovers/CaseConverter) | Online case converter | vanilla/native JavaScript
 [Community Lovers](https://github.com/freewarelovers/CommunityLovers) | | Django (Python), React (JavaScript)
-[Skupu](https://github.com/freewarelovers/Skupu) | | MERN (Mongo, Express, React, Node.js)
+[DiiCT](https://github.com/freewarelovers/DiiCT) | Multilingual dictionary | currently LAMP (PHP + MySQL), open for suggestions
+[Freeware Lovers](https://github.com/freewarelovers/FreewareLovers) | | currently LAMP (PHP + MySQL), should be reimplemented in Laravel (PHP)
 [MyProfiles](https://github.com/freewarelovers/MyProfiles) | |
+[PasswordGenerator](https://github.com/freewarelovers/PasswordGenerator) | Online password generator | vanilla/native JavaScript
+[Skupu](https://github.com/freewarelovers/Skupu) | | MERN (Mongo, Express, React, Node.js)
+[SpellCheck](https://github.com/freewarelovers/SpellCheck) | Online spell checker | vanilla/native JavaScript (currently broken)
+[Translit](https://github.com/freewarelovers/WebSniffer) | Online transliterator | vanilla/native JavaScript
+[WebSniffer](https://github.com/freewarelovers/WebSniffer) | HTTP request/response viewer | currently LAMP (PHP + MySQL), open for suggestions (needs more JS)
 
 ## Getting Started
 
