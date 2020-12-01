@@ -1,6 +1,6 @@
 # Contribution Guide
 
-Welcome! Are you interested in contributing to one (or some) of the Freeware Lovers projects? This repository should help you. It contains information and guidelines about contributions to the current projects supervised by the Freeware Lovers company.
+Welcome! Are you interested in contributing to one (or several) of the Freeware Lovers projects? This repository should help you. It contains information and guidelines about contributions to the current projects supervised by the Freeware Lovers company.
 
 There are multiple ways to start contributing to our ecosystem, including either company-wide and project-wide opportunities.
 
@@ -10,7 +10,7 @@ There are multiple ways to start contributing to our ecosystem, including either
 - Technical writer
 - SEO specialist
 - Growth hacker
-- we are open for many other roles, feel free to ask / suggest
+- ... we are open for many other roles, feel free to ask / suggest ...
 
 ## Projects
 
