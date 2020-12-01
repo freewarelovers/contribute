@@ -19,15 +19,15 @@ Below is the table with the main projects listed in alphabetical order.
 Project | Description | Tech Stack
 --- | --- | ---
 [Case Converter](../../../CaseConverter) | Online case converter | vanilla/native JavaScript
-[Community Lovers](https://github.com/freewarelovers/CommunityLovers) | Open community platform | Django (Python), React (JavaScript)
-[DiiCT](https://github.com/freewarelovers/DiiCT) | Multilingual dictionary | currently LAMP (PHP + MySQL), open for suggestions
-[Freeware Lovers](https://github.com/freewarelovers/FreewareLovers) | Wikipedia of free software | currently LAMP (PHP + MySQL), should be reimplemented in Laravel (PHP)
-[My Profiles](https://github.com/freewarelovers/MyProfiles) | |
-[Password Generator](https://github.com/freewarelovers/PasswordGenerator) | Online password generator | vanilla/native JavaScript
-[Skupu](https://github.com/freewarelovers/Skupu) | | MERN (Mongo, Express, React, Node.js)
-[Spell Check](https://github.com/freewarelovers/SpellCheck) | Online spell checker | vanilla/native JavaScript (currently broken)
-[Translit](https://github.com/freewarelovers/WebSniffer) | Online transliterator | vanilla/native JavaScript
-[Web Sniffer](https://github.com/freewarelovers/WebSniffer) | HTTP request/response viewer | currently LAMP (PHP + MySQL), open for suggestions (needs more JS)
+[Community Lovers](../../../CommunityLovers) | Open community platform | Django (Python), React (JavaScript)
+[DiiCT](../../../DiiCT) | Multilingual dictionary | currently LAMP (PHP + MySQL), open for suggestions
+[Freeware Lovers](../../../FreewareLovers) | Wikipedia of free software | currently LAMP (PHP + MySQL), should be reimplemented in Laravel (PHP)
+[My Profiles](../../../MyProfiles) | |
+[Password Generator](../../../PasswordGenerator) | Online password generator | vanilla/native JavaScript
+[Skupu](../../../Skupu) | | MERN (Mongo, Express, React, Node.js)
+[Spell Check](../../../SpellCheck) | Online spell checker | vanilla/native JavaScript (currently broken)
+[Translit](../../../Translit) | Online transliterator | vanilla/native JavaScript
+[Web Sniffer](../../../WebSniffer) | HTTP request/response viewer | currently LAMP (PHP + MySQL), open for suggestions (needs more JS)
 new projects | we are open to any new projects and ideas | any tech stack
 
 ## Getting Started
