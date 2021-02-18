@@ -40,5 +40,9 @@ Every registered GitHub user can join our org using the self-service page at [jo
 
 ### Step 2: Join Discord
 
+For internal communication we used to have a Slack space, but because of the Slack’s limitations we are now moving to Discord. To join our Discord server, where most of the communication is happening, simply use this invite link: [chat.freewarelovershq.com](https://chat.freewarelovershq.com/).
+
+When you are done setting up your profile, then feel free to introduce yourself to everyone in the **#introduce-yourself** channel.
+
 ### Step 3: ...
 
