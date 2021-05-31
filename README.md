@@ -38,9 +38,13 @@ We do A LOT of code contribution, issue tracking, branstorming and general colla
 
 Every registered GitHub user can join our org using the self-service page at [join-freeware-lovers.herokuapp.com](https://join-freeware-lovers.herokuapp.com/).
 
-### Step 2: Join Discord
+### Step 2: Join Discord and/or Slack
 
-For internal communication we used to have a Slack space, but because of the Slack’s limitations we are now moving to Discord. To join our Discord server, where most of the communication is happening, simply use this invite link: [chat.freewarelovershq.com](https://chat.freewarelovershq.com/).
+For internal communication we are primerily using Discord. If you are not a Discord lover, then use our fall back Slack space.
+
+To join our Discord server, where most of the communication is happening, simply use this invite link: [freewarelovershq.com/discord](https://freewarelovershq.com/discord).
+
+To join our Slack workspace simply use this invite link: [freewarelovershq.com/slack](https://freewarelovershq.com/slack).
 
 When you are done setting up your profile, then feel free to introduce yourself to everyone in the **#introduce-yourself** channel.
 
