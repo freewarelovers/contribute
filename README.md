@@ -27,7 +27,7 @@ Project | Description | Tech Stack
 [Skupu](../../../Skupu) | | MERN (Mongo, Express, React, Node.js)
 [Spell Check](../../../SpellCheck) | Online spell checker | vanilla/native JavaScript (currently broken)
 [Translit](../../../Translit) | Online transliterator | vanilla/native JavaScript
-[Web Sniffer](../../../WebSniffer) | HTTP request/response viewer | currently LAMP (PHP + MySQL), open for suggestions (needs more JS)
+[WebSniffer](../../../WebSniffer) | HTTP request/response viewer | currently LAMP (PHP + MySQL), open for suggestions (needs more JS)
 new projects | we are open to any new projects and ideas | any tech stack
 
 ## Getting Started
